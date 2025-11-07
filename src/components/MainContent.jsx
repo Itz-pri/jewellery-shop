@@ -17,16 +17,16 @@ const MainContent = () => {
                     <p className="mt-5 ml-3">Also Available On</p>
 
                     <div className="ml-6 mt-6 gap-5 flex">
-                        <img className='cursor-pointer' src="\public\flipkart.png" alt="" />
-                        <img className='cursor-pointer' src="\public\amazon.png" alt="" />
+                        <img className='cursor-pointer' src="flipkart.png" alt="flipkart wordmark" />
+                        <img className='cursor-pointer' src="public\amazon.png" alt="amazon wordmark" />
                     </div>
 
                 </div>
                 <div className=" h-full w-[50%] flex justify-center items-center relative ">
 
-                    <img className='h-9/12 z-1 mb-15 bg-blend-darken absolute duration-300 delay-200 ' src="\public\ring.png" alt="ring image" />
+                    <img className='h-9/12 z-1 mb-15 bg-blend-darken absolute duration-300 delay-200 ' src="ring.png" alt="image of a ring" />
 
-                    <img className='relative scale-120 sm:w-2xl' src="\public\mandala.png" alt="" />
+                    <img className='relative scale-120 sm:w-2xl' src="mandala.png" alt="" />
                 </div>
 
             </div>
@@ -35,3 +35,4 @@ const MainContent = () => {
 }
 
 export default MainContent
+

@@ -18,7 +18,7 @@ const MainContent = () => {
 
                     <div className="ml-6 mt-6 gap-5 flex">
                         <img className='cursor-pointer' src="flipkart.png" alt="flipkart wordmark" />
-                        <img className='cursor-pointer' src="public\amazon.png" alt="amazon wordmark" />
+                        <img className='cursor-pointer' src="amazon.png" alt="amazon wordmark" />
                     </div>
 
                 </div>
@@ -35,4 +35,5 @@ const MainContent = () => {
 }
 
 export default MainContent
+
 

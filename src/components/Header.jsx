@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <nav className="flex justify-between p-5 max-w-[1850px] mt-2 m-auto items-center border-b border-gray-200">
         <div className="">
-          <img className='h-10 cursor-pointer' src="\public\Filled=Yes.svg" alt="brand logo" />
+          <img className='h-10 cursor-pointer' src="Filled=Yes.svg" alt="brand logo" />
         </div>
 
 
@@ -31,4 +31,5 @@ const Header = () => {
 }
 
 export default Header
+
 0
